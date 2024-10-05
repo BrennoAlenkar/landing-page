@@ -44,6 +44,23 @@ header {
     display: none;
 }
 
+.whats:hover {
+    background-color: #47c153;
+    color: #fff;
+}
+
+.insta:hover {
+    background-color: #FC0967;
+    color: #fff;
+}
+
+.face:hover {
+    background-color: #086DFF;
+    color: #fff;
+}
+
+
+
 @media screen and (max-width: 1170px) {
     #nav_list,
     #navbar .btn-default {
